@@ -12,10 +12,11 @@ flight to lax from ord, spirit nk 737.
 # developmental stages as fractal but potentially skippable
 
 Been reading about stages of development- must find citation. Elaboration of piaget but continuing through moral etc. 
+-Note- Citation is to David Chapman and Robert Kegan. Kegan's *The Evolving Self* is now in my library. 
 
 ##Def: Existal- Similar to existential, but incorporating developments in information theory, complexity, algorithmic complexity, cognitive behavioral therapy, heuristics and biases literature, and bayesian reasoning.
 
-##Definition: Existal Capability
+##Def: Existal Capability
 a combination of agency and mandate in which an entity may become complex in a manner resulting in actions which open a new phase space for its descendant entities. The potential for the impetus/situation combination was inherent in the prior entity, but if viewed in a sequential fashion Existal Capability is a prerequisite for further development past this bottleneck. 
 
 ###Agency and Mandate
